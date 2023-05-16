@@ -1,12 +1,12 @@
-### Olá! Eu sou o David Luiz
+### Olá! Eu sou o Bruno Wilson!!!
 
 
 - 🔭 Apaixonado por tecnologia
-- 🌱 Estudante Sistemas da Informação 6/8
+- 🌱 Estudante Tecnologia da informação 3/4
 <div align="center">
-  <a href="https://github.com/davidluiz91">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=davidluiz91&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidluiz91&layout=compact&langs_count=7&theme=cobalt"/>
+  <a href="https://github.com/Wilson656">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Wilson656&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wilson656&layout=compact&langs_count=7&theme=cobalt"/>
 </div>
  
 <div style="display: inline_block"><br>
